@@ -75,7 +75,7 @@ if vim.o.background == "dark" then
 
 	-- colors
 	-- local bg = nord.bg
-	local bg = "NONE"
+	local bg = "#232730"
 	local fg = nord.fg
 	local punct_fg = nord.bright_white
 	local def_fg = nord.blue
